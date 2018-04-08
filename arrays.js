@@ -35,7 +35,6 @@ function removeElementFromBeginningOfArray(array) {
   return n.shift();
 }
 
-// 7
 function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop();
   return array;
